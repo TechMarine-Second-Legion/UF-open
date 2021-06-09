@@ -7,7 +7,7 @@ def gcd(a,b):
 	if b==0: return a
 	else: return gcd(b, a%b)
 
-
+# https://intuit.ru/studies/courses/691/547/lecture/12389?page=2
 def uE(a,b):
 	#a, b = max(a,b), min(a,b)
 
